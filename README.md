@@ -49,7 +49,7 @@ This certificate validates my hands-on experience in building microcontroller-ba
 ## 🔗 Connect with Me
 - 📫 LinkedIn: [Richu Joseph](https://www.linkedin.com/in/richujoseph)
 - 💻 Wokwi Username: `richu_joseph`
-- 📂 GitHub: [richujoseph](https://github.com/your-github-username)
+- 📂 GitHub: [richujoseph](https://github.com/richujoseph)
 
 ---
 
