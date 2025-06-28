@@ -10,7 +10,7 @@ Welcome to my collection of hands-on **ESP32-based IoT projects** built using th
 - 📌 Description: Measures distance using an HC-SR04 ultrasonic sensor and prints it to the serial monitor.
 - 🔗 Live Simulation: [Try it on Wokwi](https://wokwi.com/projects/434386899309884417)
 - 📷 Screenshot:  
-  ![Ultrasonic Sensor](images/ultrasonic.png)
+  ![Ultrasonic Sensor](https://github.com/richujoseph/Wokwi_projects/blob/main/.images/IMG_5993.jpeg)
 
 ---
 
