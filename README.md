@@ -26,7 +26,7 @@ Welcome to my collection of hands-on **ESP32-based IoT projects** built using th
 - 📌 Description: Each button press increases the number displayed on the 7-segment display.
 - 🔗 Live Simulation: [Try it on Wokwi](https://wokwi.com/projects/434382074769255425)
 - 📷 Screenshot:  
-  ![7-Segment Display](images/7segment.png)
+  ![7-Segment Display] (https://github.com/richujoseph/Wokwi_projects/blob/a5ded5ca27127a12efe495aae4dfa3add85c3de1/.images/IMG_5995.jpeg )
 
 ---
 
