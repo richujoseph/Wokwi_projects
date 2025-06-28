@@ -18,7 +18,7 @@ Welcome to my collection of hands-on **ESP32-based IoT projects** built using th
 - 📌 Description: Adjust LED brightness using a potentiometer (analog input) on the ESP32.
 - 🔗 Live Simulation: [Try it on Wokwi](https://wokwi.com/projects/434385616210287617)
 - 📷 Screenshot:  
-  ![Potentiometer Project](images/potentiometer.png)
+  ![Potentiometer Project](https://github.com/richujoseph/Wokwi_projects/blob/de88e2ad8a56b0a4c871a43746daec018c953601/.images/IMG_5994.jpeg)
 
 ---
 
